@@ -26,23 +26,24 @@ Converting Column datatype - CAST()
 
 - What is the total amount each customer spent on Zomato?
 - How many days has each customer visited the restaurant?
-What was the first product purchased by each customer?
-What is the most purchased item on the menu and how many times was it purchased by all customers?
-Which item was the most popular for each customer?
-Which item was purchased first by the customer after they became a gold member?
-Which item was purchased just before the customer became a gold member?
-What is the total items and amount spent for each member before they became a member?
-If each 5Rs spent on Product1 equates to 1 Zomato point similarly Product2 provides 5 Zomato points on spending of 10Rs and Product3 has 1 Zomato Point for 5Rs - how many points would each customer have?
-In the first one year after a customer joins the gold program (including their
-joining date) they earn 5 Zomato Points for every 10rs on all the items - How many points do customers have at the end of the First year
-Rank all the transactions of each customer.
-Business also requires further information about the ranking of products. they purposely does not need the ranking of non member purchases so they expects 'NA' ranking values for customers who are not yet part of the gold program.
+- What was the first product purchased by each customer?
+- What is the most purchased item on the menu and how many times was it purchased by all customers?
+- Which item was the most popular for each customer?
+- Which item was purchased first by the customer after they became a gold member?
+- Which item was purchased just before the customer became a gold member?
+- What is the total items and amount spent for each member before they became a member?
+- If each 5Rs spent on Product1 equates to 1 Zomato point similarly Product2 provides 5 Zomato points on spending of 10Rs and Product3 has 1 Zomato Point for 5Rs - how many    points would each customer have?
+- In the first one year after a customer joins the gold program (including their joining date) they earn 5 Zomato Points for every 10rs on all the items - How many points 
+  customers have at the end of the First year
+- Rank all the transactions of each customer.
+- Business also requires further information about the ranking of products. they purposely does not need the ranking of non member purchases so they expects 'NA' ranking 
+  values for customers who are not yet part of the gold program.
 
 ### Insights
 
-1. Customer 1 is the most frequent visitor with 7 visits.
-2. Product1 is the first product purchased by all the customers.
-3. Zomato’s most popular item is Product2, followed by Product1 and Product3.
-4. Customer 1 loves Product2, Customer 2 loves only Product3 whereas Customer 3 seems to enjoy Product2.
-5. The last item ordered by Customers 1 and 3 before they became members is Product2. 
+- Customer 1 is the most frequent visitor with 7 visits.
+- Product1 is the first product purchased by all the customers.
+- Zomato’s most popular item is Product2, followed by Product1 and Product3.
+- Customer 1 loves Product2, Customer 2 loves only Product3 whereas Customer 3 seems to enjoy Product2.
+- The last item ordered by Customers 1 and 3 before they became members is Product2. 
 
