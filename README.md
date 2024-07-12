@@ -24,19 +24,19 @@ Converting Column datatype - CAST()
 
 ### Questions Explored
 
-1.What is the total amount each customer spent on Zomato?
-2.How many days has each customer visited the restaurant?
-3.what was the first product purchased by each customer?
-4.What is the most purchased item on the menu and how many times was it purchased by all customers?
-5.Which item was the most popular for each customer?
-6.Which item was purchased first by the customer after they became a gold member?
-7.Which item was purchased just before the customer became a gold member?
-8.What is the total items and amount spent for each member before they became a member?
-9.If each 5Rs spent on Product1 equates to 1 Zomato point similarly Product2 provides 5 Zomato points on spending of 10Rs and Product3 has 1 Zomato Point for 5Rs - how many points would each customer have?
-10.In the first one year after a customer joins the gold program (including their
+- What is the total amount each customer spent on Zomato?
+- How many days has each customer visited the restaurant?
+What was the first product purchased by each customer?
+What is the most purchased item on the menu and how many times was it purchased by all customers?
+Which item was the most popular for each customer?
+Which item was purchased first by the customer after they became a gold member?
+Which item was purchased just before the customer became a gold member?
+What is the total items and amount spent for each member before they became a member?
+If each 5Rs spent on Product1 equates to 1 Zomato point similarly Product2 provides 5 Zomato points on spending of 10Rs and Product3 has 1 Zomato Point for 5Rs - how many points would each customer have?
+In the first one year after a customer joins the gold program (including their
 joining date) they earn 5 Zomato Points for every 10rs on all the items - How many points do customers have at the end of the First year
-11.Rank all the transactions of each customer.
-12.Business also requires further information about the ranking of products. they purposely does not need the ranking of non member purchases so they expects 'NA' ranking values for customers who are not yet part of the gold program.
+Rank all the transactions of each customer.
+Business also requires further information about the ranking of products. they purposely does not need the ranking of non member purchases so they expects 'NA' ranking values for customers who are not yet part of the gold program.
 
 ### Insights
 
